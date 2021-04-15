@@ -1,0 +1,22 @@
+.ship-details {
+    margin: 7%;
+    padding: 7%;
+    background-color: rgb(54, 78, 79);
+    color: white;
+    font-weight: 600;
+    border-radius: 9%;
+}
+
+
+.title {
+    margin: 3%;
+    font-size: 1.25rem;
+}
+
+
+.link {
+    padding: 3%;
+    text-align: center;
+    font-size: 1.25rem;
+    color: gold;
+}

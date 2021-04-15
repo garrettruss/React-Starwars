@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: black;
+  min-height: 25%;
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: gold;
+}
+
+.ship-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
